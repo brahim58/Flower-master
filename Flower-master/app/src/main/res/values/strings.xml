@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flower</string>
+    <string name="BASE_URL">"http://services.hanselandpetal.com/"</string>
+</resources>
